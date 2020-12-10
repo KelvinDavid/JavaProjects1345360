@@ -1,2 +1,12 @@
-# JavaProjects1345360
-This is a demonstration of all the Java Programming that I have accomplished at my time in Waikato University.
+# University Java Projects
+**Name: Kelvin david**
+
+
+**Student ID: 1345360**
+
+### Purpose
+***
+This repository is a portfolio of work that I had completed as a student of Waikato University.
+I'm hoping that this portfolio can best showcase my understanding of programming (mostly C# and Java),
+software methodologies (Documentation), Android development and Computer Systems 
+(shown by WRAMP Waikato University's Assembly language)
