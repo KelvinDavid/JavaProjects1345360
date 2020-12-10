@@ -1,0 +1,72 @@
+\\oslo.scms.waikato.ac.nz\home\telphick\Desktop\Circuits\Circuits\bin\Debug\Circuits.exe
+\\oslo.scms.waikato.ac.nz\home\telphick\Desktop\Circuits\Circuits\bin\Debug\Circuits.pdb
+\\oslo.scms.waikato.ac.nz\home\telphick\Desktop\Circuits\Circuits\obj\Debug\ResolveAssemblyReference.cache
+\\oslo.scms.waikato.ac.nz\home\telphick\Desktop\Circuits\Circuits\obj\Debug\Circuits.Form1.resources
+\\oslo.scms.waikato.ac.nz\home\telphick\Desktop\Circuits\Circuits\obj\Debug\Circuits.Properties.Resources.resources
+\\oslo.scms.waikato.ac.nz\home\telphick\Desktop\Circuits\Circuits\obj\Debug\Circuits.exe
+\\oslo.scms.waikato.ac.nz\home\telphick\Desktop\Circuits\Circuits\obj\Debug\Circuits.pdb
+\\oslo.scms.waikato.ac.nz\home\telphick\Desktop\Circuits\Circuits\obj\Debug\GenerateResource-ResGen.read.1.tlog
+\\oslo.scms.waikato.ac.nz\home\telphick\Desktop\Circuits\Circuits\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\Compx120123\AS01\Re-Do\Re-do Again\Circuits\Circuits\obj\Debug\Circuits.exe
+F:\Compx120123\AS01\Re-Do\Re-do Again\Circuits\Circuits\obj\Debug\Circuits.pdb
+E:\Compx120123\AS01\Re-Do\Re-do Again\Circuits\Circuits\bin\Debug\Circuits.exe
+E:\Compx120123\AS01\Re-Do\Re-do Again\Circuits\Circuits\bin\Debug\Circuits.pdb
+E:\Compx120123\AS01\Re-Do\Re-do Again\Circuits\Circuits\obj\Debug\Circuits.csprojResolveAssemblyReference.cache
+E:\Compx120123\AS01\Re-Do\Re-do Again\Circuits\Circuits\obj\Debug\Circuits.Form1.resources
+E:\Compx120123\AS01\Re-Do\Re-do Again\Circuits\Circuits\obj\Debug\Circuits.Properties.Resources.resources
+E:\Compx120123\AS01\Re-Do\Re-do Again\Circuits\Circuits\obj\Debug\Circuits.csproj.GenerateResource.Cache
+E:\Compx120123\AS01\Re-Do\Re-do Again\Circuits\Circuits\obj\Debug\Circuits.csproj.CoreCompileInputs.cache
+E:\Compx120123\AS01\Re-Do\Re-do Again\Circuits\Circuits\obj\Debug\Circuits.exe
+E:\Compx120123\AS01\Re-Do\Re-do Again\Circuits\Circuits\obj\Debug\Circuits.pdb
+F:\Compx120123\AS01\Re-Do\Re-do Again\Circuits - Attempt 2\Circuits\obj\Debug\Circuits.exe
+F:\Compx120123\AS01\Re-Do\Re-do Again\Circuits - Attempt 2\Circuits\obj\Debug\Circuits.pdb
+F:\Compx120123\AS01\Re-Do\Re-do Again\Circuits - Attempt 2\Circuits\bin\Debug\Circuits.exe
+F:\Compx120123\AS01\Re-Do\Re-do Again\Circuits - Attempt 2\Circuits\bin\Debug\Circuits.pdb
+F:\Compx120123\AS01\Re-Do\Re-do Again\Circuits - Attempt 2\Circuits\obj\Debug\Circuits.csprojResolveAssemblyReference.cache
+F:\Compx120123\AS01\Re-Do\Re-do Again\Circuits - Attempt 2\Circuits\obj\Debug\Circuits.Form1.resources
+F:\Compx120123\AS01\Re-Do\Re-do Again\Circuits - Attempt 2\Circuits\obj\Debug\Circuits.Properties.Resources.resources
+F:\Compx120123\AS01\Re-Do\Re-do Again\Circuits - Attempt 2\Circuits\obj\Debug\Circuits.csproj.GenerateResource.Cache
+E:\Compx120123\AS01\Re-Do\Re-do Again\Circuits - Attempt 2\Circuits\bin\Debug\Circuits.exe
+E:\Compx120123\AS01\Re-Do\Re-do Again\Circuits - Attempt 2\Circuits\bin\Debug\Circuits.pdb
+E:\Compx120123\AS01\Re-Do\Re-do Again\Circuits - Attempt 2\Circuits\obj\Debug\Circuits.csprojResolveAssemblyReference.cache
+E:\Compx120123\AS01\Re-Do\Re-do Again\Circuits - Attempt 2\Circuits\obj\Debug\Circuits.Form1.resources
+E:\Compx120123\AS01\Re-Do\Re-do Again\Circuits - Attempt 2\Circuits\obj\Debug\Circuits.Properties.Resources.resources
+E:\Compx120123\AS01\Re-Do\Re-do Again\Circuits - Attempt 2\Circuits\obj\Debug\Circuits.csproj.GenerateResource.Cache
+E:\Compx120123\AS01\Re-Do\Re-do Again\Circuits - Attempt 2\Circuits\obj\Debug\Circuits.csproj.CoreCompileInputs.cache
+E:\Compx120123\AS01\Re-Do\Re-do Again\Circuits - Attempt 2\Circuits\obj\Debug\Circuits.exe
+E:\Compx120123\AS01\Re-Do\Re-do Again\Circuits - Attempt 2\Circuits\obj\Debug\Circuits.pdb
+D:\Compx120123\AS01\Re-Do\Re-do Again\Circuits - (Currently Refining)\Circuits\bin\Debug\Circuits.exe
+D:\Compx120123\AS01\Re-Do\Re-do Again\Circuits - (Currently Refining)\Circuits\bin\Debug\Circuits.pdb
+D:\Compx120123\AS01\Re-Do\Re-do Again\Circuits - (Currently Refining)\Circuits\obj\Debug\Circuits.csprojResolveAssemblyReference.cache
+D:\Compx120123\AS01\Re-Do\Re-do Again\Circuits - (Currently Refining)\Circuits\obj\Debug\Circuits.Form1.resources
+D:\Compx120123\AS01\Re-Do\Re-do Again\Circuits - (Currently Refining)\Circuits\obj\Debug\Circuits.Properties.Resources.resources
+D:\Compx120123\AS01\Re-Do\Re-do Again\Circuits - (Currently Refining)\Circuits\obj\Debug\Circuits.csproj.GenerateResource.Cache
+D:\Compx120123\AS01\Re-Do\Re-do Again\Circuits - (Currently Refining)\Circuits\obj\Debug\Circuits.csproj.CoreCompileInputs.cache
+D:\Compx120123\AS01\Re-Do\Re-do Again\Circuits - (Currently Refining)\Circuits\obj\Debug\Circuits.exe
+D:\Compx120123\AS01\Re-Do\Re-do Again\Circuits - (Currently Refining)\Circuits\obj\Debug\Circuits.pdb
+F:\Compx120123\AS01\Re-Do\Re-do Again\Circuits - (Currently Refining)\Circuits\obj\Debug\Circuits.exe
+F:\Compx120123\AS01\Re-Do\Re-do Again\Circuits - (Currently Refining)\Circuits\obj\Debug\Circuits.pdb
+F:\Compx120123\AS01\Re-Do\Re-do Again\Circuits - (Currently Refining)\Circuits\bin\Debug\Circuits.exe
+F:\Compx120123\AS01\Re-Do\Re-do Again\Circuits - (Currently Refining)\Circuits\bin\Debug\Circuits.pdb
+F:\Compx120123\AS01\Re-Do\Re-do Again\Circuits - (Currently Refining)\Circuits\obj\Debug\Circuits.csprojResolveAssemblyReference.cache
+F:\Compx120123\AS01\Re-Do\Re-do Again\Circuits - (Currently Refining)\Circuits\obj\Debug\Circuits.Form1.resources
+F:\Compx120123\AS01\Re-Do\Re-do Again\Circuits - (Currently Refining)\Circuits\obj\Debug\Circuits.Properties.Resources.resources
+F:\Compx120123\AS01\Re-Do\Re-do Again\Circuits - (Currently Refining)\Circuits\obj\Debug\Circuits.csproj.GenerateResource.Cache
+E:\Compx120123\AS01\Re-Do\Re-do Again\Circuits - (Currently Refining)\Circuits\bin\Debug\Circuits.exe
+E:\Compx120123\AS01\Re-Do\Re-do Again\Circuits - (Currently Refining)\Circuits\bin\Debug\Circuits.pdb
+E:\Compx120123\AS01\Re-Do\Re-do Again\Circuits - (Currently Refining)\Circuits\obj\Debug\Circuits.csprojResolveAssemblyReference.cache
+E:\Compx120123\AS01\Re-Do\Re-do Again\Circuits - (Currently Refining)\Circuits\obj\Debug\Circuits.Form1.resources
+E:\Compx120123\AS01\Re-Do\Re-do Again\Circuits - (Currently Refining)\Circuits\obj\Debug\Circuits.Properties.Resources.resources
+E:\Compx120123\AS01\Re-Do\Re-do Again\Circuits - (Currently Refining)\Circuits\obj\Debug\Circuits.csproj.GenerateResource.Cache
+E:\Compx120123\AS01\Re-Do\Re-do Again\Circuits - (Currently Refining)\Circuits\obj\Debug\Circuits.csproj.CoreCompileInputs.cache
+E:\Compx120123\AS01\Re-Do\Re-do Again\Circuits - (Currently Refining)\Circuits\obj\Debug\Circuits.exe
+E:\Compx120123\AS01\Re-Do\Re-do Again\Circuits - (Currently Refining)\Circuits\obj\Debug\Circuits.pdb
+E:\Compx120123\AS01\Re-Do\Re-do Again\Circuits - (Finished)\Circuits\bin\Debug\Circuits.exe
+E:\Compx120123\AS01\Re-Do\Re-do Again\Circuits - (Finished)\Circuits\bin\Debug\Circuits.pdb
+E:\Compx120123\AS01\Re-Do\Re-do Again\Circuits - (Finished)\Circuits\obj\Debug\Circuits.csprojResolveAssemblyReference.cache
+E:\Compx120123\AS01\Re-Do\Re-do Again\Circuits - (Finished)\Circuits\obj\Debug\Circuits.Form1.resources
+E:\Compx120123\AS01\Re-Do\Re-do Again\Circuits - (Finished)\Circuits\obj\Debug\Circuits.Properties.Resources.resources
+E:\Compx120123\AS01\Re-Do\Re-do Again\Circuits - (Finished)\Circuits\obj\Debug\Circuits.csproj.GenerateResource.Cache
+E:\Compx120123\AS01\Re-Do\Re-do Again\Circuits - (Finished)\Circuits\obj\Debug\Circuits.csproj.CoreCompileInputs.cache
+E:\Compx120123\AS01\Re-Do\Re-do Again\Circuits - (Finished)\Circuits\obj\Debug\Circuits.exe
+E:\Compx120123\AS01\Re-Do\Re-do Again\Circuits - (Finished)\Circuits\obj\Debug\Circuits.pdb

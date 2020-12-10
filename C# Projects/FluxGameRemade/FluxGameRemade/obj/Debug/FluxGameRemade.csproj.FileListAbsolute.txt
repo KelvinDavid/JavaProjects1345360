@@ -1,0 +1,10 @@
+C:\Users\kdroo\Documents\Programming\FluxGameRemade\FluxGameRemade\bin\Debug\FluxGameRemade.exe.config
+C:\Users\kdroo\Documents\Programming\FluxGameRemade\FluxGameRemade\bin\Debug\FluxGameRemade.exe
+C:\Users\kdroo\Documents\Programming\FluxGameRemade\FluxGameRemade\bin\Debug\FluxGameRemade.pdb
+C:\Users\kdroo\Documents\Programming\FluxGameRemade\FluxGameRemade\obj\Debug\FluxGameRemade.csprojAssemblyReference.cache
+C:\Users\kdroo\Documents\Programming\FluxGameRemade\FluxGameRemade\obj\Debug\FluxGameRemade.Form1.resources
+C:\Users\kdroo\Documents\Programming\FluxGameRemade\FluxGameRemade\obj\Debug\FluxGameRemade.Properties.Resources.resources
+C:\Users\kdroo\Documents\Programming\FluxGameRemade\FluxGameRemade\obj\Debug\FluxGameRemade.csproj.GenerateResource.cache
+C:\Users\kdroo\Documents\Programming\FluxGameRemade\FluxGameRemade\obj\Debug\FluxGameRemade.csproj.CoreCompileInputs.cache
+C:\Users\kdroo\Documents\Programming\FluxGameRemade\FluxGameRemade\obj\Debug\FluxGameRemade.exe
+C:\Users\kdroo\Documents\Programming\FluxGameRemade\FluxGameRemade\obj\Debug\FluxGameRemade.pdb
