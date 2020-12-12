@@ -5,8 +5,8 @@ error_reporting(0);
 //MySQL database settings
 $root = $_SERVER['SERVER_NAME'];
 $servername = "localhost";
-$username = "ssadmin";
-$password = "1Jollibee";
+$username = "Username here";
+$password = "Password Here";
 $dbname = "ssanta_db";
 
 // Create connection

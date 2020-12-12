@@ -2,7 +2,7 @@
 //Connect to the database
 require('SQLconnect.php');
 //Authorize if the user is valid or not 
-if(strcmp($_GET['token'],'1Jollibee!') != 0){
+if(strcmp($_GET['token'],'Admin Password Here') != 0){
     die('You are not authorized to access this page');
 }
 //gets the local IP of the host 
